@@ -1,7 +1,5 @@
-# 🌐 Simple Personel Website
-
-💕 The project is for beginners. For this reason I took care to keep it simple, you can use and share as you wish.
-
+# 🌐 About Me Website for students in IS245-A
+💕 This is a class proect that you can continue working on, even after graduation.
 📦 Contents
 
 - [X] Footer
