@@ -1,6 +1,6 @@
-# 🌐 Simple Personel Website
+# 🌐 About Jane Website
 
-💕 The project is for beginners. For this reason I took care to keep it simple, you can use and share as you wish.
+💕 This project is for the students in IS 245-A
 
 📦 Contents
 
